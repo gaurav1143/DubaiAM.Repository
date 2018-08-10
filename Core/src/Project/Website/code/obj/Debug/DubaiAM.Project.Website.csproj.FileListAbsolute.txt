@@ -1,0 +1,12 @@
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\DubaiAM.Project.Website.dll.config
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\DubaiAM.Project.Website.dll
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\DubaiAM.Project.Website.pdb
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\Sitecore.Analytics.dll
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\Sitecore.Kernel.dll
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\Sitecore.Mvc.dll
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\obj\Debug\DubaiAM.Project.Website.csprojAssemblyReference.cache
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\obj\Debug\DubaiAM.Project.Website.csproj.CoreCompileInputs.cache
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\obj\Debug\DubaiAM.Project.Website.csproj.CopyComplete
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\obj\Debug\DubaiAM.Project.Website.dll
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\obj\Debug\DubaiAM.Project.Website.pdb
+C:\Users\gaashok\Source\Repos\DubaiAM.Repository\Core\src\Project\Website\code\bin\System.Web.Helpers.dll
